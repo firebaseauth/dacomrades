@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "firebase": "^9.5.0"
+  },
+  "name": "project",
+  "description": "Project for DaComrades",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "CommanderWello",
+  "license": "ISC"
+}
