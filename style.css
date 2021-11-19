@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(88, 88, 88);
+}
+
+.box {
+    border: 10px inset #464646;
+    box-shadow: -1px 10px 22px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 10px 22px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 10px 22px 0px rgba(0,0,0,0.75);
+    background-color: rgb(189, 189, 189);
+    width: 1000px;
+    height: 365px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+input {
+    border: 1px solid black;
+    width: 250px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btnSignUp[type=submit] {
+    background-color: rgb(6, 92, 25);
+    border: 1px solid black !important;
+}
+
+.btnSignOut[type=button] {
+    background-color: rgb(124, 10, 10);
+    border: 1px solid black !important;
+}
+
+.btnSignIn[type=button] {
+    background-color: rgb(117, 124, 10);
+    border: 1px solid black !important;
+}
+
+hr {
+    border: 1.5px solid black;
+    background-color: black;
+}
